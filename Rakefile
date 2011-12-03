@@ -3,10 +3,10 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name           = "recaptcha"
-    gem.description    = "This plugin adds helpers for the reCAPTCHA API "
+    gem.name           = "ry-recaptcha"
+    gem.description    = "This plugin adds helpers for the reCAPTCHA API - Forked for Railsyard CMS"
     gem.summary        = "Helpers for the reCAPTCHA API"
-    gem.homepage       = "http://ambethia.com/recaptcha"
+    gem.homepage       = "https://github.com/silviorelli/ry-recaptcha"
     gem.authors        = ["Jason L. Perry"]
     gem.email          = "jasper@ambethia.com"
     gem.files.reject! { |fn| fn.include? ".gitignore" }

@@ -1,3 +1,7 @@
+== 0.3.3 / 2011-12-3
+
+* Forked and renamed to be released on Rubygems as a different, updated gem
+
 == 0.2.2 / 2009-09-14
 
 * Add a timeout to the validator
