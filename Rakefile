@@ -3,8 +3,8 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name           = "ry-recaptcha"
-    gem.description    = "This plugin adds helpers for the reCAPTCHA API - Forked for Railsyard CMS"
+    gem.name           = "recaptcha-rails3"
+    gem.description    = "This plugin adds helpers for the reCAPTCHA API - Forked for Rails 3"
     gem.summary        = "Helpers for the reCAPTCHA API"
     gem.homepage       = "https://github.com/silviorelli/ry-recaptcha"
     gem.authors        = ["Jason L. Perry"]
